@@ -1,1 +1,1 @@
-xinc ahfo thế giưới
+delete week2.md
